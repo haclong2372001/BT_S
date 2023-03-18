@@ -58,12 +58,14 @@ body {
     font-weight: 900;
     font-size: 13px;
     line-height: 40px;
+    position: relative;
+    left: 14px
 }
 
 .nav-control {
     position: relative;
     top: 37px;
-    left: 73px;
+    left: 54px;
 }
 
 .navbar {
